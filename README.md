@@ -12,12 +12,12 @@
   <h1 align="left">Azure NoOps Accelerator Policy as Code Overlay Modules</h1>
   <p align="left">
     <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-orange.svg" alt="MIT License"></a>
-    <a href="https://registry.terraform.io/modules/azurenoops/overlays-policy/azurerm/"><img src="https://img.shields.io/badge/terraform-registry-blue.svg" alt="Azure NoOps TF Registry"></a></br>
+    <a href="https://registry.terraform.io/modules/POps-Rox/overlays-policy/azurerm/"><img src="https://img.shields.io/badge/terraform-registry-blue.svg" alt="POps-Rox TF Registry"></a></br>
   </p>
 </p>
 <!-- markdownlint-enable MD033 -->
 
-This Overlay terraform module simplifies the creation of custom and built-in Azure Policies to be used in a [SCCA compliant Mission Enclave](https://registry.terraform.io/modules/azurenoops/overlays-hubspoke/azurerm/latest).
+This Overlay terraform module simplifies the creation of custom and built-in Azure Policies to be used in a [SCCA compliant Mission Enclave](https://registry.terraform.io/modules/POps-Rox/overlays-hubspoke/azurerm/latest).
 
 ## Contributing
 

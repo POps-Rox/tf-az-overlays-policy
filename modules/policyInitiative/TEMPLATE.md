@@ -12,7 +12,7 @@ This module creates a Policy Set Initiative in Azure. It is designed to be used 
 
 ```hcl
 module configure_asc_initiative {
-  source                  = "azurenoops/overlays-policy/azurerm//modules/policyInitiative"
+  source                  = "POps-Rox/overlays-policy/azurerm//modules/policyInitiative"
   version                = "0.0.1"
   initiative_name         = "configure_asc_initiative"
   initiative_display_name = "[Security]: Configure Azure Security Center"
